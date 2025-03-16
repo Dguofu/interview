@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\gi\training\test.h(76,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\gi\training\test.h(89,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  training.vcxproj -> D:\gi\training\x64\Debug\training.exe

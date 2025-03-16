@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gi\\training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\design_model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:design_model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\Chapter-03-Completed-Code\\QuickSort2Ways.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\06-Quick-Sort-Deal-With-Nearly-Ordered-Array\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|D:\\gi\\training\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7E80E1C-A19A-429B-AAB3-62A6F9030E4F}|training.vcxproj|solutionrelative:queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "design_model.h",
+              "DocumentMoniker": "D:\\gi\\training\\design_model.h",
+              "RelativeDocumentMoniker": "design_model.h",
+              "ToolTip": "D:\\gi\\training\\design_model.h",
+              "RelativeToolTip": "design_model.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T01:14:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSort2Ways.h",
+              "DocumentMoniker": "D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\Chapter-03-Completed-Code\\QuickSort2Ways.h",
+              "RelativeDocumentMoniker": "..\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\Chapter-03-Completed-Code\\QuickSort2Ways.h",
+              "ToolTip": "D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\Chapter-03-Completed-Code\\QuickSort2Ways.h",
+              "RelativeToolTip": "..\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\Chapter-03-Completed-Code\\QuickSort2Ways.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T00:59:36.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\06-Quick-Sort-Deal-With-Nearly-Ordered-Array\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\06-Quick-Sort-Deal-With-Nearly-Ordered-Array\\main.cpp",
+              "ToolTip": "D:\\gi\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\06-Quick-Sort-Deal-With-Nearly-Ordered-Array\\main.cpp",
+              "RelativeToolTip": "..\\Play-with-Algorithms-master\\03-Sorting-Advance\\Course Code (C\u002B\u002B)\\06-Quick-Sort-Deal-With-Nearly-Ordered-Array\\main.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T00:57:10.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ViewState": "AgIAAGwHAAAAAAAAAAArwHoHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-12T03:28:06.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.h",
+              "DocumentMoniker": "D:\\gi\\training\\test.h",
+              "RelativeDocumentMoniker": "test.h",
+              "ToolTip": "D:\\gi\\training\\test.h",
+              "RelativeToolTip": "test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T02:54:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.h",
+              "DocumentMoniker": "D:\\gi\\training\\list.h",
+              "RelativeDocumentMoniker": "list.h",
+              "ToolTip": "D:\\gi\\training\\list.h",
+              "RelativeToolTip": "list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T05:03:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\gi\\training\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\gi\\training\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-03T04:37:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "queue.h",
+              "DocumentMoniker": "D:\\gi\\training\\queue.h",
+              "RelativeDocumentMoniker": "queue.h",
+              "ToolTip": "D:\\gi\\training\\queue.h",
+              "RelativeToolTip": "queue.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T03:17:52.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stack.h",
+              "DocumentMoniker": "D:\\gi\\training\\stack.h",
+              "RelativeDocumentMoniker": "stack.h",
+              "ToolTip": "D:\\gi\\training\\stack.h",
+              "RelativeToolTip": "stack.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T03:17:34.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
